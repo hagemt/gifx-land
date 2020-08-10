@@ -1,0 +1,3 @@
+[submodule "mclarkk"]
+	path = mclarkk
+	url = git@github.com:mclarkk/lifxlan.git
